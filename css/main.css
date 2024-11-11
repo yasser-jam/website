@@ -1,0 +1,18 @@
+:root {
+    --bulma-family-primary: Roboto Flex, sans-serif;
+}
+
+
+.container {
+    padding: 0 6rem
+}
+
+/* Features */
+.features .feature {
+    border: 2px solid #ededed
+}
+
+/* Connect width people */
+.connect-text {
+    width: 75%
+}
